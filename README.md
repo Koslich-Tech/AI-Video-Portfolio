@@ -64,3 +64,15 @@ Welcome to my portfolio showcasing AI-generated video production, promotional me
 - **Description:** High-production commercial piece demonstrating end-to-end creative direction.
 - **Link:** [Watch Video 10](https://drive.google.com/file/d/1CeNz3h60ErNuk_jyWHAKNFdL8HIJPile/view?usp=drivesdk)
 
+
+---
+### Project 11: "The Strict Bride & The Jollof Rice" (AI Comedy Skit)
+- **Description:** A 3D animated wedding comedy skit featuring multi-speaker dialogue, comedic lip-syncing, and expressive character acting centered around wedding reception drama.
+- **Link:** [Watch Project 11](https://drive.google.com/file/d/1D-ZzGDICzxi6NVJXYKWhEkiYhKUCTq1J/view?usp=drivesdk)
+
+---
+
+### Project 12: "Wedding Rules & Spraying Dollars" (AI Comedy Skit)
+- **Description:** A fast-paced 3D animated narrative skit showcasing character voice synthesis, synchronized lip movement, crowd reactions, and situational humor.
+- **Link:** [Watch Project 12](https://drive.google.com/file/d/1FY7ssOZiig1i7UA03WJL8ApWGJjPEg7P/view?usp=drivesdk)
+
