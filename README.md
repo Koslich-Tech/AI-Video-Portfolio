@@ -1,6 +1,6 @@
 # AI Video & Content Portfolio
 
-Welcome to my portfolio showcasing AI-generated video production, promotional media, UGC content, and creative storytelling.
+Welcome to my portfolio showcasing AI-generated video production, promotional media, UGC content, and creative storytelling built using Google Flow, Google Gemini, CapCut, ElevenLabs, and advanced AI media pipelines.
 
 ---
 
